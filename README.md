@@ -58,7 +58,7 @@ ML-Foundations/
 
 Catch up on the complete workshop here:  
 
-🔗 [Watch the Recording on YouTube](https://youtu.be/CdbU_IxCVjU)
+[![Watch the Recording](https://img.youtube.com/vi/CdbU_IxCVjU/0.jpg)](https://youtu.be/CdbU_IxCVjU)
 
 
 ---
